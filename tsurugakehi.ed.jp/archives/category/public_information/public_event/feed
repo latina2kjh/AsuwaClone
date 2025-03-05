@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>イベント | 敦賀気比高等学校　敦賀気比高等学校付属中学校</title>
+	<atom:link href="https://tsurugakehi.ed.jp/archives/category/public_information/public_event/feed" rel="self" type="application/rss+xml" />
+	<link>https://tsurugakehi.ed.jp</link>
+	<description>福井県嶺南地域にある併設型中高一貫私立校</description>
+	<lastBuildDate>Mon, 19 Aug 2024 06:11:06 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>https://tsurugakehi.ed.jp/wp/wp-content/uploads/2023/09/color_logo_favicon.png</url>
+	<title>イベント | 敦賀気比高等学校　敦賀気比高等学校付属中学校</title>
+	<link>https://tsurugakehi.ed.jp</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>福井県春季高校総体結果</title>
+		<link>https://tsurugakehi.ed.jp/archives/25309</link>
+		
+		<dc:creator><![CDATA[布川洋一]]></dc:creator>
+		<pubDate>Tue, 04 Jun 2024 10:35:42 +0000</pubDate>
+				<category><![CDATA[イベント]]></category>
+		<category><![CDATA[在校生・保護者]]></category>
+		<category><![CDATA[新着情報]]></category>
+		<category><![CDATA[高校]]></category>
+		<guid isPermaLink="false">https://tsurugakehi.ed.jp/wp/?p=25309</guid>
+
+					<description><![CDATA[県春季高校総体が行われ、生徒の皆さんは、日頃の練習の成果を発揮すべくベストを尽くして戦いました。素晴らしい成績を収めた部活動、生徒もいれば、悔しい結果に終わった皆さんもいるかと思いますが、それぞれの思いを大切に、これから [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>敦賀気比高校オープンスクール</title>
+		<link>https://tsurugakehi.ed.jp/archives/25245</link>
+		
+		<dc:creator><![CDATA[布川洋一]]></dc:creator>
+		<pubDate>Thu, 09 May 2024 08:10:26 +0000</pubDate>
+				<category><![CDATA[イベント]]></category>
+		<category><![CDATA[在校生・保護者]]></category>
+		<category><![CDATA[新着情報]]></category>
+		<category><![CDATA[高校]]></category>
+		<guid isPermaLink="false">https://tsurugakehi.ed.jp/wp/?p=25245</guid>
+
+					<description><![CDATA[「英語教育」「英才教育」「人間教育」令和６年度、敦賀気比高校では、English programがスタートしました。これからの社会を生き抜くには、国際教育・人間教育が欠かせません。楽しみながら英会話を学び、英会話力をつけ [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
